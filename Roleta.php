@@ -189,5 +189,3 @@ class Roleta
 		return $html;
 	}
 }
-
-//echo $teste->exibirResultado();
